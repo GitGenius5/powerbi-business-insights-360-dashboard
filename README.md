@@ -4,7 +4,8 @@
 Business Insights 360 is an interactive Power BI dashboard designed to analyze business performance across multiple departments such as finance, sales, marketing, and supply chain.
 
 The dashboard provides a 360-degree view of business operations by tracking key metrics including revenue, profit margins, KPIs, and regional sales trends.
-
+## 🔗 Live Dashboard
+You can explore the interactive dashboard here: https://app.powerbi.com/view?r=eyJrIjoiZjVlZjYxZDctOGQwYS00NTM4LWI4MmUtOWM5YzdkNGQwY2E5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ---
 
 ## 🚀 Dashboard Views
@@ -46,7 +47,6 @@ A high-level summary designed for executives to quickly review key business KPIs
 ---
 
 ## 📂 Project Files
-- Power BI Dashboard (.pbix)
 - README Documentation
 
 ---
